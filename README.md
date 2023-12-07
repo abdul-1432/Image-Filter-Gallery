@@ -14,7 +14,7 @@ This interactive gallery showcases a variety of image filters, bringing your pho
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/image-filter-gallery.git
+   git clone https://github.com/abdul-1432/Image-Filter-Gallery
    ```
 
 2. **Open `index.html` in your browser:**
