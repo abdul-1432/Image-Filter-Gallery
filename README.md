@@ -54,7 +54,7 @@ If you'd like to contribute and add more filters or features, follow these steps
 ## Credits
 
 - Inspired by the talented community on Codepen.io
-- Icons by [FontAwesome](https://fontawesome.com/)
+- Icons by [FontAwesome](https://codepen.io/)
 
 ## License
 
